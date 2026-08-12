@@ -64,14 +64,12 @@ COVID19-Analysis/
 
 # 🛠 Technologies Used
 
-- Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
-- VS Code
 
 ---
 
